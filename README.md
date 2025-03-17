@@ -76,7 +76,7 @@ YOUTUBE_API_KEY=your_youtube_api_key
 
 **Run the Backend Server**
 ```
-npm start
+node server.js
 ```
 
 3. Setup Frontend (React.js)
