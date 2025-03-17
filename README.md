@@ -24,7 +24,7 @@ A web application that detects a user's mood in real-time using facial recogniti
 
 - **Frontend**: React.js, Bootstrap CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (Local)
+- **Database**: MongoDB (Local) (NOT USED, PLAN TO USE IN THE FUTURE)
 - **AI**: TensorFlow.js, Face-API.js
 - **APIs**: Spotify API, YouTube Data API v3
 
