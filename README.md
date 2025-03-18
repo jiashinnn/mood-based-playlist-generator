@@ -6,7 +6,9 @@ A web application that detects a user's mood in real-time using facial recogniti
 
 ## 🖼️ Demo
 
-> Add a screenshot or GIF of your project running.
+![image](https://github.com/user-attachments/assets/e6075db9-8073-49b5-b92f-0f96b196a5b6)
+
+![image](https://github.com/user-attachments/assets/b80b6055-d72f-40ac-b368-815f951a3350)
 
 ---
 
